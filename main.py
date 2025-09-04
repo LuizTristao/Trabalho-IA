@@ -1,4 +1,3 @@
-# Q-learning no Taxi-v3 (Gymnasium)
 import numpy as np
 import gymnasium as gym
 
